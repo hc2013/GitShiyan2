@@ -1,0 +1,4 @@
+ChannelHandlerContext.writeAndFlush（）
+    这个方法看起来是在BS之间发送信息的方法
+
+Unpooled的方法这个类的使用办法
